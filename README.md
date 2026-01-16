@@ -7,7 +7,7 @@ How to install:
 
 --------------------------------------------------
 
-**2)** Install it/import it into the curseforge launcher
+**2)** Install it/import it into your desired launcher
 
 --------------------------------------------------
 
