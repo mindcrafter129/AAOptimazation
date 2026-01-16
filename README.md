@@ -18,6 +18,6 @@ How to install:
 **ℹ️** INFO **ℹ️**
 |-------------------------------------------------
 |I will not be making a quilt or forge version DO NOT ASK! 
-|🔴Do not reupload it I WILL take it town if you do!🔴
+Pls dont reupload
 
 
